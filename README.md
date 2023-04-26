@@ -4,5 +4,5 @@
 # Project tasks list
 - [ ] implementing Message encryption/decryption with PyCrypto module
 - [ ] implementing batch file encryption/decryption 
-- [ ] implementing ML based cipherы guesser 
+- [ ] implementing ML based ciphers guesser 
 
